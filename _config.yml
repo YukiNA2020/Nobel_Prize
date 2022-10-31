@@ -1,5 +1,5 @@
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme 
-title: the final project of MISY by JingyangFeng and JinhaoHU
-description: the url of the app is here,https://yukina2020-finalproject-final-afklx7.streamlitapp.com/
+title: the final project 
+description: an app of nobel price
