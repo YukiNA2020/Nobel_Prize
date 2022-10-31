@@ -1,5 +1,5 @@
 remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme 
-title: the final project 
-description: an app of nobel price
+title: The Final Project 
+description: An app of nobel price
