@@ -3,7 +3,6 @@ The final project of MISY by JingyangFeng and JinhaoHU.
 
 The url of the app is here.
 
-<https://yukina2020-final-project-final-enctwz.streamlitapp.com/>
 <https://fictional-trout-qjr54x755ggc6wg-8501.app.github.dev/>
 
 ## 项目目的是 “诺贝尔奖数据的交互式探索与规律总结”
