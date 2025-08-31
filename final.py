@@ -3,9 +3,9 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
-import seaborn
+import seaborn as sns
 
-plt.style.use('seaborn')
+sns.set_style('whitegrid')
 st.title("The Nobel Prize ")
 df_date = pd.read_csv('nobel_prizes_by_date.csv')
 df_winner = pd.read_csv('nobel_prize_by_winner.csv')
